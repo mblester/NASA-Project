@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(192, 221, 247);
+    height: 100%;
+}
+
+header {
+    font-family: 'Exo 2', sans-serif;
+    font-size: 100pt;
+    text-align: center;
+    border: 2pt solid black;
+    background-image: url(nasaBackground.jpg);
+    color: whitesmoke;
+}
